@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mule-project xmlns="http://www.mulesoft.com/tooling/project" runtimeId="org.mule.tooling.server.3.9.0.ee" schemaVersion="3.5.0.0">
+    <name>netsuite-data-retrieval_1.5.1</name>
+    <description></description>
+    <muleExtension name="NetSuite" qualifier="org.mule.tooling.ui.contribution.netsuite.3.5.0"/>
+    <muleExtension name="APIkit" qualifier="org.mule.tooling.apikit.3.7.0"/>
+</mule-project>
